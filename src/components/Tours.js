@@ -4,7 +4,7 @@ import Title from "./Title";
 const Tours = () => {
   return (
     <section className="section" id="tours">
-      <Title title="Our" subTitle="Tours" />
+      <Title title="Featured" subTitle="Tours" />
 
       <div className="section-center featured-center">
         <article className="tour-card">
